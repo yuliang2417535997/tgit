@@ -3,14 +3,4 @@ master edit 2
 dev edit 3
 dev edit 4 remote
 dev edit 5 remote66
-<<<<<<< HEAD
-<<<<<<< HEAD
-master edit 1901
-dev edit 1901
-=======
-dev edit 1901
-dev edit 1902
->>>>>>> 3a87e85 (dev02)
-=======
-dev edit 1901
->>>>>>> 79fa0a4 (dev1901)
+
